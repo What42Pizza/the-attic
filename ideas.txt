@@ -1,0 +1,22 @@
+Pitch for game:
+You wake up one night and decide to enter the attic that has always been off-limits. The door to the attic can never close because the stairs past it protrude into the doorway. The house belonged to your grandad but has now passed down to your parents. At the top of the stairs is a large open space that looks like it could have been a fully-furnished room at some point, but is now stripped down to just wood and nails. You find a wooden panel that can be pried open, leading to more rooms / crawl spaces. Every room you enter looks like it should be the last, but it somehow always continues.
+
+Some areas are almost too narrow, other areas are unusually large, some areas have extremely old electronics (radios, etc), some have old furniture, some are rotting and unstable, some lead to rooms which were sealed off, some have hazardous materials (nails sticking out of beams, etc), some have unexplainable architecture (too many support beams in one place, etc), and so on.
+
+Possible intro:
+It is explained that your family just inherited a large mansion built in the late 1920s(?) and is moving in to start refurbishing it. On the ride there, your father reminds you that the door to the attic is broken and that you can't go in, and tries to scare you into not even touching the door.
+
+Start of attic:
+The stair steps do not have any backing, they are just rounded off planks in a somewhat narrow hallway. The stairs go up about 7 steps before turning to the right and continuing upwards. At the top, you find a large open room with a wooden floor, a few walls that look like they once had sheetrock on them, and a small wooden panel in the corner that leads to more rooms. You continue to explore a never ending path of passages that are all off-putting in unique ways. Some areas are almost too narrow, other areas are unusually large, some areas have extremely old electronics (radios, etc), some have old furniture, some are rotting and unstable, some lead to rooms which were sealed off, some have hazardous materials (nails sticking out of beams, etc), some have unexplainable architecture (too many support beams in one place, etc), and so on. You don't have a flashlight, but moonlight coming through the crack is usually enough to see.
+
+There should probably be some sort of through-line to tie everything together, such as a cultist theme where you continue to find more and more cultist items / scenes.
+
+To increase the length of the game, some amount of finding and using items is probably needed (brooms to sweep away rat nests in narrow areas you need to go through, light bulbs to light up areas that are otherwise pitch black, etc). Also, because attics alone would probably become boring after a while, there would probably need to be more than just that. The rooms you go through don't strictly have to be attics, but they do have to be places that are almost always out of sight.
+
+Sound design would be an extremely effective (and easy) way to scare players, but it probably wouldn't have as big of an effect on viewers. A few hyper-realistic voicelines would be a great example of this. I strongly suspect that viewers care much about the visual atmosphere.
+
+Having some sort of dangerous person / entity is kinda needed, though I'm not sure how to do this without being generic. Maybe the cult was into necromancy? Or having life-sized dolls come to life would be a good balance of new and effectively scary. Maybe the dolls can barely move, kinda like how objects in ghost videos barely move, but still enough to move towards you.
+
+One high-risk / high-reward detail is limitations of movement. I really like the idea of heavily momentum-based movement, where you hold down a key to accelerate in that direction (and otherwise decelerate). This is high-risk / high-reward because it could easily become more annoying than it is effective, but limiting what the player is able to do is a tried and true method for increasing tension in horror games. I feel like this might also make the game more immersive (if done well), but there's probably no way to know in advance if something like this would work.
+
+Another high-risk / high-reward detail is confusion. Again, if done well it can increase tension, but if done poorly it can be more annoying than effective. Probably how this should be done is to make the path forward not very clear, but always obvious in retrospect (though that's a lot easier said than done).
