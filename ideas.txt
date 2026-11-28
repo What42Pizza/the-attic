@@ -11,12 +11,35 @@ The stair steps do not have any backing, they are just rounded off planks in a s
 
 There should probably be some sort of through-line to tie everything together, such as a cultist theme where you continue to find more and more cultist items / scenes.
 
-To increase the length of the game, some amount of finding and using items is probably needed (brooms to sweep away rat nests in narrow areas you need to go through, light bulbs to light up areas that are otherwise pitch black, etc). Also, because attics alone would probably become boring after a while, there would probably need to be more than just that. The rooms you go through don't strictly have to be attics, but they do have to be places that are almost always out of sight.
+To increase the length of the game, some amount of finding and using items is probably needed (brooms to sweep away rat nests in narrow areas you need to go through, light bulbs to light up areas that are otherwise pitch black, etc). It would probably be nice for the game to have 10+ hours of gameplay, but that's probably an unrealistic goal, so just as many hours as possible should be the goal.
+
+Because attics alone would probably become boring after a while, there would probably need to be more than just that. The rooms you go through don't strictly have to be attics, but they do have to all be places that are almost always out of sight (such as passages inside walls).
+
+I think the game should progress linearly, where you constantly progress from one small set of rooms to another small set of rooms, with something preventing you from continuing to each new area and probably something preventing you from backtracking. I don't know how that will be done though, and ideas will need to be made on the fly.
 
 Sound design would be an extremely effective (and easy) way to scare players, but it probably wouldn't have as big of an effect on viewers. A few hyper-realistic voicelines would be a great example of this. I strongly suspect that viewers care much about the visual atmosphere.
 
-Having some sort of dangerous person / entity is kinda needed, though I'm not sure how to do this without being generic. Maybe the cult was into necromancy? Or having life-sized dolls come to life would be a good balance of new and effectively scary. Maybe the dolls can barely move, kinda like how objects in ghost videos barely move, but still enough to move towards you.
+Having some sort of dangerous person / entity is kinda needed, though I'm not sure how to do this without being generic. Maybe the cult was into necromancy? Or having life-sized dolls come to life would be a good balance of new and effectively scary. Maybe the dolls can barely move, kinda like how objects in ghost videos barely move, but still enough to move towards you. The frequency of these encounters should probably be none at the beginning and slowly become more and more frequent as the game goes on. For example, after a while, you find a doll that always turns it head to face you whenever you're not looking. Then a bit later, you find a doll with a constantly twitching head. I think it would also be best if the dolls can only sometimes attack the player.
 
 One high-risk / high-reward detail is limitations of movement. I really like the idea of heavily momentum-based movement, where you hold down a key to accelerate in that direction (and otherwise decelerate). This is high-risk / high-reward because it could easily become more annoying than it is effective, but limiting what the player is able to do is a tried and true method for increasing tension in horror games. I feel like this might also make the game more immersive (if done well), but there's probably no way to know in advance if something like this would work.
+- deceleration should probably be a bit faster than acceleration
+- velocity should probably look like y=sqrt(x) near 0 (snap to/from being completely still)
 
-Another high-risk / high-reward detail is confusion. Again, if done well it can increase tension, but if done poorly it can be more annoying than effective. Probably how this should be done is to make the path forward not very clear, but always obvious in retrospect (though that's a lot easier said than done).
+Another high-risk / high-reward detail is uncertainty. Again, if done well it can increase tension, but if done poorly it can be more annoying/confusing than effective. Probably how this should be done is to make the path forward not very clear, but always obvious in retrospect (though that's a lot easier said than done). Another source of this should probably be not knowing what the dolls are capable of. I'm not sure whether this should deal with "uncertainty" or "confusion", maybe this paragraph should be split up?
+
+One thing that can easily annoy me is when you aren't sure what the tone / realistic-ness is supposed to be. I'm not saying that the tone should be completely homogenous, but it should be clear what the tone is and it should be obvious when the tone is meant to change.
+
+On-screen menus should be avoided wherever possible. In fact, it's probably best to not even have an inventory system, and only allow players to carry one or two item at a time, one item per hand. Also I like the idea of closing your eyes being the transition to a pause menu. Also, probably left click should be pick up / use item, right click is use item / hand, and those (plus the mouse and wasd) are the only controls?
+
+I want the graphics to be as realistic as possible, but trying too hard to be photorealistic (going further than our skills allow) wouldn't be good, so we (whoever ends up working on this) should aim for as realistic as our current skills can do well. I don't want to go with retro/low-poly graphics, but there will probably be ways in which the graphics need to be modest.
+
+Inspirations from other games:
+- exploration of INFRA
+- constant stream of new and unique obstacles / distractions in Spooky's Jumpscare Mansion
+- off-putting nature of exploring old houses in dreams
+
+Vibes to focus on:
+- old wood that has been sealed away for years
+- messing with something might be more dangerous than leaving it alone
+- knowing that this has to be a dream but needing answers anyway
+  - it should never be stated/indicated that this is a dream, and it should play as if it isn't
